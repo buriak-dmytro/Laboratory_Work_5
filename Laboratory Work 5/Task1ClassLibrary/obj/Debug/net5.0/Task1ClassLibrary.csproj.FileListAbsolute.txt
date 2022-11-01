@@ -1,0 +1,12 @@
+D:\University ChNU\Programming\Year 2\Term 1\Laboratory Work 5\Laboratory_Work_5\Laboratory Work 5\Task1ClassLibrary\bin\Debug\net5.0\Task1ClassLibrary.deps.json
+D:\University ChNU\Programming\Year 2\Term 1\Laboratory Work 5\Laboratory_Work_5\Laboratory Work 5\Task1ClassLibrary\bin\Debug\net5.0\Task1ClassLibrary.dll
+D:\University ChNU\Programming\Year 2\Term 1\Laboratory Work 5\Laboratory_Work_5\Laboratory Work 5\Task1ClassLibrary\bin\Debug\net5.0\ref\Task1ClassLibrary.dll
+D:\University ChNU\Programming\Year 2\Term 1\Laboratory Work 5\Laboratory_Work_5\Laboratory Work 5\Task1ClassLibrary\bin\Debug\net5.0\Task1ClassLibrary.pdb
+D:\University ChNU\Programming\Year 2\Term 1\Laboratory Work 5\Laboratory_Work_5\Laboratory Work 5\Task1ClassLibrary\obj\Debug\net5.0\Task1ClassLibrary.csproj.AssemblyReference.cache
+D:\University ChNU\Programming\Year 2\Term 1\Laboratory Work 5\Laboratory_Work_5\Laboratory Work 5\Task1ClassLibrary\obj\Debug\net5.0\Task1ClassLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\University ChNU\Programming\Year 2\Term 1\Laboratory Work 5\Laboratory_Work_5\Laboratory Work 5\Task1ClassLibrary\obj\Debug\net5.0\Task1ClassLibrary.AssemblyInfoInputs.cache
+D:\University ChNU\Programming\Year 2\Term 1\Laboratory Work 5\Laboratory_Work_5\Laboratory Work 5\Task1ClassLibrary\obj\Debug\net5.0\Task1ClassLibrary.AssemblyInfo.cs
+D:\University ChNU\Programming\Year 2\Term 1\Laboratory Work 5\Laboratory_Work_5\Laboratory Work 5\Task1ClassLibrary\obj\Debug\net5.0\Task1ClassLibrary.csproj.CoreCompileInputs.cache
+D:\University ChNU\Programming\Year 2\Term 1\Laboratory Work 5\Laboratory_Work_5\Laboratory Work 5\Task1ClassLibrary\obj\Debug\net5.0\Task1ClassLibrary.dll
+D:\University ChNU\Programming\Year 2\Term 1\Laboratory Work 5\Laboratory_Work_5\Laboratory Work 5\Task1ClassLibrary\obj\Debug\net5.0\ref\Task1ClassLibrary.dll
+D:\University ChNU\Programming\Year 2\Term 1\Laboratory Work 5\Laboratory_Work_5\Laboratory Work 5\Task1ClassLibrary\obj\Debug\net5.0\Task1ClassLibrary.pdb
